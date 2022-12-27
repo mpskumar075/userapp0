@@ -1,0 +1,2 @@
+DB_USERNAME=sampat
+DB_PASSWORD=userapp123
